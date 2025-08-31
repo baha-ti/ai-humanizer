@@ -32,7 +32,7 @@ class GoogleGemini:
             raise e
 
 
-    def generate_content(self, model: str = "gemini-2.5-flash-preview-04-17", content: str = "", temperature: float = 0.7) -> str:
+    def generate_content(self, model: str = "gemini-2.5-flash-lite", content: str = "", temperature: float = 0.7) -> str:
         """
         Generate content using the Google Gemini API.
 
