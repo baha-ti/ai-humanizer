@@ -32,3 +32,117 @@ Guidelines:
     • Replace dashes with commas, periods, or rewrite the sentence for clarity.
 • Only return the rewritten, humanized version of the text.
 • Do not include any formatting, explanations, or extra commentary.
+
+Sample of Human-Written Text (Reference)
+
+The following is an example of typical human-written academic text to understand the natural rhythm and structure of human writing:
+
+A primary goal in developing a work exchange program is to build global awareness which enhances the realisation and appreciation of divergent ways of thinking (Hershberg & Van Fleet, 1987). Exchange programs are perceived as the 'face of internationalisation' (Knight, 2012), as they seek to integrate global, intercultural, and international perspectives within higher education institutions. Thus, on the one hand, exchange programs are perceived as making an important contribution to an organ internationalization, as well as contributing to participants' personal development (Leutwylwe, 2014).
+
+Between May 7th to 19th, 2023, a team of Tanzanian Mathematics Educators and policymakers visited Shanghai to gain experience in the provision of education, particularly in mathematics. The study tour was part of the implementation of a two-year online Mathematics exchange program which was conducted in three phases; the first two were online and the third was a two-week face-to-face interaction with the facilitators.
+
+The Shanghai education system demonstrates remarkable achievement in education, particularly in mathematics education. The outstanding performance of Shanghai's basic education in the Program for International Student Assessment (PISA) results in 2009 and 2012 triggered a wave of exploration of the Shanghai Education Model by education practitioners all over the world (Huang, 2022). In the PISA results of 2012, Shanghai was ranked first in Mathematics with an average score of 813 points which was 100 more points than the global average score (Yang, Ran & Zhang, 2020). England-Shanghai is one of the successful mathematics exchange programs conducted between 2012 and 2021 to explore the Shanghai education model. In recent years, other African countries like Sudan, Zambia, and Lesotho have also sent delegates and educational experts to Shanghai to learn more about its education model (UNESCO TEC, 2011).
+
+Shanghai's outstanding achievement in mathematics education is associated with several factors such as the emphasis on focused curriculum reforms, school quality improvement through multiple innovative strategies such as establishing educational associations across districts, entrusting school management mechanisms, establishing partnerships between urban and rural schools, promoting teacher professional development through school-based research systems and promoting the in-service teacher education (Yang, Ran & Zhang, 2020).
+
+Maree (2016) notes that qualitative research views research as a process rather than an event, and thus makes provision for some form of fluidity during the execution of the study. In this study, the researcher did not visit the research sites to collect data on a once-off basis, since the study was a process. The researcher spent almost a month at the study sites to get an in-depth understanding of MTEs' knowledge and practices of FA through gathering data at different points and different times of the study. Furthermore, Creswell and Poth (2016) state that the qualitative research approach focuses on understanding the meaning that an individual or a group ascribes to a social or human problem, and generates words for data analysis rather than numbers. It was based on these highlighted reasons that the qualitative approach was considered to be appropriate for this study, because the aim was to explore teacher educators' understanding of FA and how their understanding translates into practice. Denzin and Lincoln (2011) defined qualitative research as the study of a phenomenon in a natural setting and interpretation of the phenomena for understanding in terms of the meaning that individuals bring to them. The emphasis on natural settings confirms that meaning is constructed from participants' experiences and knowledge. Therefore in the study, the researcher adopted a qualitative approach because the key concern was to understand teacher educators' knowledge and practices of FA from their own perspective, not the researcher's.
+
+Academic Writing Refinement Principles
+
+Do not change the substantive meaning unless the sentence is conceptually weak, repetitive, vague, or logically disconnected. If you make a necessary conceptual change, briefly explain why.
+
+Core Editing Principles
+
+1. Make every sentence do a distinct job.
+Do not allow sentences to merely restate the previous sentence in different words. Each sentence should perform one identifiable function, such as:
+• making a claim
+• specifying the mechanism
+• introducing a complication
+• contrasting two possibilities
+• giving evidence
+• explaining the implication
+• identifying a gap
+• connecting a study to the argument
+Delete or merge sentences that only repeat ideas such as "important", "effective", "useful", "challenging", or "beneficial" without adding analytical value.
+
+2. Replace decorative connectors with real logical relationships.
+Do not rely on "furthermore", "moreover", "in addition", "however", "therefore", or "this shows that" unless the relationship is explicitly explained. Instead of adding a connector, clarify the relationship between ideas.
+For example, do not write: "Evidence from digital formative assessment also points in this direction."
+Write instead: "Digital assessment evidence extends the same argument by showing that even immediate feedback is not automatically formative unless it is tied to subsequent instructional action."
+
+3. Avoid generic academic openings.
+Do not begin paragraphs with broad claims that could appear in any education paper, such as:
+• "Formative assessment is important in mathematics education."
+• "Feedback plays a crucial role in learning."
+• "Learning intentions guide instruction."
+Enter directly into the specific argument. For example: "In mathematics, feedback is formative only when it helps the teacher and learner interpret the reasoning behind an answer, not merely whether the answer is correct."
+
+4. Explain mechanisms, not only importance.
+Whenever the prose says that something "supports", "improves", "enhances", "guides", or "contributes to" learning, explain how it works.
+Ask:
+• What does the practice make visible?
+• What does the teacher interpret?
+• What does the student do differently?
+• What mathematical relation, strategy, misconception, representation, or critical aspect is brought into view?
+• What instructional decision follows?
+For example, replace: "Feedback helps students improve."
+With: "Feedback moves learning forward when it identifies the gap between the student's current strategy and the intended mathematical relation, and when the learner is required to revise that strategy."
+
+5. Avoid over-neat AI paragraph patterns.
+Do not use the repeated structure: abstract claim → simple example → polished conclusion.
+Instead, allow the reasoning to develop through classroom ambiguity, conceptual distinction, methodological caution, or theoretical tension before drawing the implication.
+The prose should not sound mechanically balanced. It should show judgement.
+
+6. Avoid formulaic "not X but Y" closures unless they are developed.
+Do not repeatedly write: "The issue is not whether X, but whether Y."
+If this contrast is needed, explain why X is insufficient and how Y changes the analysis.
+For example: "A teacher may provide feedback after every task, yet the feedback may still remain weak if it only marks answers as right or wrong. To become formative, it must identify what the learner has understood, what relation remains unclear, and what action should follow."
+
+7. Add productive friction.
+The prose should include careful qualifications where needed. Use tension, limitation, and conditionality to make the argument more human and more credible.
+For example:
+• "This is useful, but only under certain conditions."
+• "The finding is important, although it does not yet show how the practice operates in ordinary lessons."
+• "The problem is not absence of feedback alone, but the weak conversion of feedback into student action."
+
+8. Move paragraphs through reasoning.
+A strong paragraph should normally move through some version of: claim → complication → evidence → mechanism → implication.
+
+9. Convert lists into relationships.
+Avoid list-like accumulation.
+Do not write: "Feedback should be linked to learning intentions, should focus on next steps, should require cognitive work, and should be timely."
+Write: "Learning intentions give feedback its direction; evidence of student thinking gives it its basis; next-step guidance gives it instructional force; and student response determines whether it actually moves learning forward."
+
+10. Reduce vague evaluative adjectives.
+Avoid leaving words such as "important", "effective", "meaningful", "significant", "crucial", "valuable", and "beneficial" unexplained.
+If such words are used, immediately specify the reason.
+For example: "Feedback is effective when it changes what the learner attends to, revises, or tries next."
+
+11. Remove unnecessary meta-language.
+Avoid phrases such as:
+• "this section discusses"
+• "this paper aims to explore"
+• "the following paragraph will examine"
+• "this highlights the importance of"
+Where possible, enter directly into the substantive argument.
+
+12. Test whether the paragraph belongs to this study.
+After revising, check whether the paragraph could be copied into a paper on science education, language teaching, or general pedagogy without alteration. If it could, make it more specific to the actual theoretical, empirical, or methodological problem.
+
+Sentence-Level Diagnostic Checklist
+
+For each sentence, ask:
+1. Does this sentence add a new idea, or does it restate the previous one?
+If it restates, delete it, merge it, or make it perform a different function.
+
+2. Does the connector explain a real relationship?
+If the connector only decorates the paragraph, replace it with an explicit explanation of the relationship.
+
+3. Could this sentence appear in any education paper?
+If yes, add the mathematical, theoretical, methodological, or empirical specificity that makes it belong to this argument.
+
+4. Does the sentence explain a mechanism?
+If it only says something matters, explain how it works.
+
+5. Does the paragraph move from claim to complication to implication?
+If it only moves from one claim to another, reorganise it.
